@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Welcome;
 
-namespace GradeBook
+namespace DemoApp1
 {
     class Program
     {

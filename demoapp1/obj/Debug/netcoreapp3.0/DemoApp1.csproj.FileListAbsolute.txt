@@ -1,0 +1,11 @@
+C:\Users\JTC127\git\public\misc\demoapp1\bin\Debug\netcoreapp3.0\DemoApp1.exe
+C:\Users\JTC127\git\public\misc\demoapp1\bin\Debug\netcoreapp3.0\DemoApp1.deps.json
+C:\Users\JTC127\git\public\misc\demoapp1\bin\Debug\netcoreapp3.0\DemoApp1.runtimeconfig.json
+C:\Users\JTC127\git\public\misc\demoapp1\bin\Debug\netcoreapp3.0\DemoApp1.runtimeconfig.dev.json
+C:\Users\JTC127\git\public\misc\demoapp1\bin\Debug\netcoreapp3.0\DemoApp1.dll
+C:\Users\JTC127\git\public\misc\demoapp1\bin\Debug\netcoreapp3.0\DemoApp1.pdb
+C:\Users\JTC127\git\public\misc\demoapp1\obj\Debug\netcoreapp3.0\DemoApp1.csprojAssemblyReference.cache
+C:\Users\JTC127\git\public\misc\demoapp1\obj\Debug\netcoreapp3.0\DemoApp1.AssemblyInfoInputs.cache
+C:\Users\JTC127\git\public\misc\demoapp1\obj\Debug\netcoreapp3.0\DemoApp1.AssemblyInfo.cs
+C:\Users\JTC127\git\public\misc\demoapp1\obj\Debug\netcoreapp3.0\DemoApp1.dll
+C:\Users\JTC127\git\public\misc\demoapp1\obj\Debug\netcoreapp3.0\DemoApp1.pdb
